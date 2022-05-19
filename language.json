@@ -1,0 +1,19 @@
+{
+  "config": {
+    "default": "en"
+  },
+  "language": {
+    "en": {
+	  "#ab": "About",
+	  "#gal": "Gallery",
+	  "#sch": "Schedule",
+	  "#con": "Contact"
+    },
+    "mk": {
+	  "#ab": "За нас",
+	  "#gal": "Галерија",
+	  "#sch": "Распоред",
+	  "#con": "Контакт"
+    }
+  }
+}
