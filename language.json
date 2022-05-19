@@ -5,10 +5,13 @@
   "language": {
     "en": {
 	  "#ab": "About",
+    "#abl": "<b>House of Grappling Arts</b> is a collective of international champions united to raise awareness of the Brazilian Jiu Jitsu sport in our country. <b>HGA</b> is more than just a Jiu Jitsu training academy. We create a chance and opportunity for your own personal development, where the instructors together with the students create a system of inspiration that leads us all as a team to move forward. Together we relentlessly seek the better version of ourselves in and out of training. That is why the fastest growing team in Macedonia should be your choice.",
     "#mis": "Our Mission",
+    "#mil": "We have a mission with a professional approach in modern conditions to train you to achieve your goal. When you enter our academy, regardless of your level in the sport, you will have the choice to train in different groups. We have a beginner’s group, an advanced one and a group for professional competitors.",
     "#fnd": "Founded:",
     "#mem": "Members:",
     "#phi": "Our Philosophy",
+    "#phl": "The principles of Jiu Jitsu will incorporate qualities and traits in your character that will define you as an individual for life. Although students at the Academy learn from the most modern techniques in the sport, primarily, they learn to live life through the true principles and what it really means to be a “Martial Artist”.",
 	  "#gal": "Gallery",
 	  "#sch": "Schedule",
     "#mon": "Monday",
@@ -17,14 +20,20 @@
     "#thu": "Thursday",
     "#fri": "Friday",
     "#sat": "Saturday",
-	  "#con": "Contact"
+    "#min": "*Мinimum three stripe white belt required to attend the class.",
+	  "#con": "Contact",
+    "#loc": "Location",
+    "#tel": "Phone"
     },
     "mk": {
 	  "#ab": "За нас",
+    "#abl": "<b>House of Grappling Arts</b> е колектива од интернационални шампиони здружени со цел да ја покренат свеста на Brazilian Jiu Jitsu спортот во нашата држава. <b>HGA</b> е повеќе од академија за тренирање Џиу Џицу. Создаваме шанса и можност за вашиот личен развој, каде инструкторите заедно со студентите создаваат систем на инспирација која нѐ води сите како тим да одиме напред. Заедно немилосрдно трагаме во подобрата верзија од себеси во, и надвор од тренинг. Затоа биди дел од најбрзо растечкиот тим во Македонија.",
     "#mis": "Нашата Мисија",
+    "#mil": "Имаме мисија со професионален пристап во современи услови да ве тренираме за да ја постигнете вашата цел. Кога ќе влезете во нашата академија без разлика на вашето ниво во спортот ќе имате избор да тренирате во различни групи. Имаме група за почетници, група за напредни и група за професионални натпреварувачи.",
     "#fnd": "Основано:",
     "#mem": "Членови:",
     "#phi": "Нашата Филозофија",
+    "#phl": "Принципите на Џиу Џицу ќе вградат квалитети и особини во вашиот карактер кои ќе ве дефинираат како индивидуа доживотно. Иако во Академијата студентите учат од најсовремените техники во спортот, поважно од сѐ учат да го живеат животот преку вистинските принципи и што значи стварно да се биде “Martial Artist”.",
 	  "#gal": "Галерија",
 	  "#sch": "Распоред",
     "#mon": "Понеделник",
@@ -33,7 +42,10 @@
     "#thu": "Четврток",
     "#fri": "Петок",
     "#sat": "Сабота",
-	  "#con": "Контакт"
+    "#min": "*Минимум три ленти бел појас за учество на часот.",
+	  "#con": "Контакт",
+    "#loc": "Локација",
+    "#tel": "Телефон"
     }
   }
 }
