@@ -5,14 +5,34 @@
   "language": {
     "en": {
 	  "#ab": "About",
+    "#mis": "Our Mission",
+    "#fnd": "Founded:",
+    "#mem": "Members:",
+    "#phi": "Our Philosophy",
 	  "#gal": "Gallery",
 	  "#sch": "Schedule",
+    "#mon": "Monday",
+    "#tue": "Tuesday",
+    "#wen": "Wednesday",
+    "#thu": "Thursday",
+    "#fri": "Friday",
+    "#sat": "Saturday",
 	  "#con": "Contact"
     },
     "mk": {
 	  "#ab": "За нас",
+    "#mis": "Нашата Мисија",
+    "#fnd": "Основано:",
+    "#mem": "Членови:",
+    "#phi": "Нашата Филозофија",
 	  "#gal": "Галерија",
 	  "#sch": "Распоред",
+    "#mon": "Понеделник",
+    "#tue": "Вторник",
+    "#wen": "Среда",
+    "#thu": "Четврток",
+    "#fri": "Петок",
+    "#sat": "Сабота",
 	  "#con": "Контакт"
     }
   }
