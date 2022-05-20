@@ -370,6 +370,10 @@ body.disabledScroll{
   align-items: center;
   justify-content: space-between;
   align-content: center;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  transition: all 0.3s ease;
 }
 .navbar .navlogo a{
   color: #fff;
@@ -417,6 +421,10 @@ body.disabledScroll{
   font-size: 20px;
   cursor: pointer;
   display: none;
+  position: absolute;
+  right: 30px;
+  top: 25px;
+  transition: all 0.3s ease;
 }
 .navicon.cancel-btn{
   position: absolute;
@@ -425,6 +433,14 @@ body.disabledScroll{
 }
 .navbar.sticky .navicon.cancel-btn{
   top: 10px;
+}
+.navbar.sticky .navicon.menu-btn{
+  top: 10px;
+  transition: all 0.3s ease;
+}
+.navbar.sticky .navcontent{
+  top: 20px;
+  transition: all 0.3s ease;
 }
 @media (max-width: 868px) {
   body.disabledScroll{
