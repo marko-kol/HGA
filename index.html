@@ -886,6 +886,12 @@
       cancelBtn.classList.remove("show");
       body.classList.remove("disabledScroll");
     }
+    menu.onclick = ()=>{
+      menu.classList.remove("active");
+      menuBtn.classList.remove("hide");
+      cancelBtn.classList.remove("show");
+      body.classList.remove("disabledScroll");
+    }
 
     window.onscroll = ()=>{
       this.scrollY > 20 ? navbar.classList.add("sticky") : navbar.classList.remove("sticky");
