@@ -20,30 +20,35 @@
     <link href="assets/img/favicon.png" />
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
-    <!-- Google Fonts -->
+    <!-- Google Fonts 
     <link
       href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
       rel="stylesheet"
-    />
+    /> -->
 
-    <!-- Vendor CSS Files -->
+     <!--Vendor CSS Files --> 
     <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
+    
     <link
       href="assets/vendor/bootstrap/css/bootstrap.min.css"
       rel="stylesheet"
-    />
+    /> 
+    
     <link
       href="assets/vendor/bootstrap-icons/bootstrap-icons.css"
       rel="stylesheet"
     />
+    
     <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet" />
+    
     <link
       href="assets/vendor/glightbox/css/glightbox.min.css"
       rel="stylesheet"
     />
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
-    <!-- Template Main CSS File -->
+
+     <!--Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet" />
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
@@ -55,15 +60,13 @@
 
 
 
-     <nav class="navbar">
-
-        <div class="navlogo"><a href="#">HGA</a></div>
-       
-        <ul class="menu-list">
-          <div class="navicon cancel-btn">
+    <nav class="hganavbar">
+      <div class="hganavcontent">
+        <div class="hganavlogo"><a href="#">HGA</a></div>
+        <ul class="hganavmenu-list">
+          <div class="hganavicon hganavcancel-btn">
             <i class="fas fa-times"></i>
           </div>
-          <div class="navcontent">
           <li><a id="abt" href="#ab">За нас</a></li>
           <li><a id="gat" href="#gal">Галерија</a></li>
           <li><a id="sct" href="#sch">Распоред</a></li>
@@ -71,14 +74,12 @@
           <li><a id="cot" href="#con">Контакт</a></li>
           <li><a id="mkt" onclick="$.MultiLanguage('language.json', 'mk')" href="#">мк</a></li>
           <li><a id="ent" onclick="$.MultiLanguage('language.json', 'en')" href="#">en</a></li>
-        </div>
         </ul>
-        <div class="navicon menu-btn">
+        <div class="hganavicon hganavmenu-btn">
           <i class="fas fa-bars"></i>
         </div>
-
-    </nav> 
-
+      </div>
+    </nav>
 
 
     <!-- ======= Hero Section ======= -->
@@ -860,12 +861,13 @@
         $.MultiLanguage('language.json');
       })
     </script>
-  <script>
+
+    <script>
     const body = document.querySelector("body");
-    const navbar = document.querySelector(".navbar");
-    const menu = document.querySelector(".menu-list");
-    const menuBtn = document.querySelector(".menu-btn");
-    const cancelBtn = document.querySelector(".cancel-btn");
+    const hganavbar = document.querySelector(".hganavbar");
+    const menu = document.querySelector(".hganavmenu-list");
+    const menuBtn = document.querySelector(".hganavmenu-btn");
+    const cancelBtn = document.querySelector(".hganavcancel-btn");
     menuBtn.onclick = ()=>{
       menu.classList.add("active");
       menuBtn.classList.add("hide");
@@ -884,9 +886,10 @@
       cancelBtn.classList.remove("show");
       body.classList.remove("disabledScroll");
     }
+    
 
     window.onscroll = ()=>{
-      this.scrollY > 20 ? navbar.classList.add("sticky") : navbar.classList.remove("sticky");
+      this.scrollY > 20 ? hganavbar.classList.add("sticky") : hganavbar.classList.remove("sticky");
     }
   </script>
 

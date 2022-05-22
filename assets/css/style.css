@@ -19,16 +19,6 @@
   font-display: swap;
 }
 
-/* @font-face {
-  font-family: 'Avenir Next Cyr Ultra';
-  src: url('fonts/AvenirNextCyr-UltraLight.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-UltraLight.woff') format('woff'),
-      url('fonts/AvenirNextCyr-UltraLight.ttf') format('truetype');
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap;
-} */
-
 @font-face {
   font-family: 'Avenir Next Cyr';
   src: url('fonts/AvenirNextCyr-Bold.woff2') format('woff2'),
@@ -39,16 +29,6 @@
   font-display: swap;
 }
 
-/* @font-face {
-  font-family: 'Avenir Next Cyr Ultra';
-  src: url('fonts/AvenirNextCyr-UltraLightIt.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-UltraLightIt.woff') format('woff'),
-      url('fonts/AvenirNextCyr-UltraLightIt.ttf') format('truetype');
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap;
-} */
-
 @font-face {
   font-family: 'Avenir Next Cyr';
   src: url('fonts/AvenirNextCyr-Medium.woff2') format('woff2'),
@@ -58,116 +38,6 @@
   font-style: normal;
   font-display: swap;
 }
-
-/* @font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-Thin.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-Thin.woff') format('woff'),
-      url('fonts/AvenirNextCyr-Thin.ttf') format('truetype');
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-} */
-/* 
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-DemiItalic.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-DemiItalic.woff') format('woff'),
-      url('fonts/AvenirNextCyr-DemiItalic.ttf') format('truetype');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-LightItalic.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-LightItalic.woff') format('woff'),
-      url('fonts/AvenirNextCyr-LightItalic.ttf') format('truetype');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-Heavy.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-Heavy.woff') format('woff'),
-      url('fonts/AvenirNextCyr-Heavy.ttf') format('truetype');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-Demi.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-Demi.woff') format('woff'),
-      url('fonts/AvenirNextCyr-Demi.ttf') format('truetype');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-Light.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-Light.woff') format('woff'),
-      url('fonts/AvenirNextCyr-Light.ttf') format('truetype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-ThinItalic.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-ThinItalic.woff') format('woff'),
-      url('fonts/AvenirNextCyr-ThinItalic.ttf') format('truetype');
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-HeavyItalic.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-HeavyItalic.woff') format('woff'),
-      url('fonts/AvenirNextCyr-HeavyItalic.ttf') format('truetype');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-BoldItalic.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-BoldItalic.woff') format('woff'),
-      url('fonts/AvenirNextCyr-BoldItalic.ttf') format('truetype');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-MediumItalic.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-MediumItalic.woff') format('woff'),
-      url('fonts/AvenirNextCyr-MediumItalic.ttf') format('truetype');
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Avenir Next Cyr';
-  src: url('fonts/AvenirNextCyr-Italic.woff2') format('woff2'),
-      url('fonts/AvenirNextCyr-Italic.woff') format('woff'),
-      url('fonts/AvenirNextCyr-Italic.ttf') format('truetype');
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-} */
 
 body {
   font-family: "Avenir Next Cyr Medium", sans-serif;
@@ -192,162 +62,152 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Navbar
 --------------------------------------------------------------*/
-
 /* custom scroll bar */
 ::-webkit-scrollbar {
-    width: 10px;
+  width: 10px;
 }
 ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+  background: #f1f1f1;
 }
 ::-webkit-scrollbar-thumb {
-    background: #888;
+  background: #888;
 }
 ::selection{
-  background: rgb(0,123,255,0.3);
+background: rgb(0,123,255,0.3);
 }
-.navcontent{
-  max-width: 1250px;
-  margin: auto;
-  padding: 0px 30px;
+.hganavcontent{
+max-width: 1250px;
+margin: auto;
+padding: 0px 30px;
 }
-.navbar{
-  position: fixed;
-  z-index: 5;
-  width: 100%;
-  padding: 25px 0;
-  transition: all 0.3s ease;
+.hganavbar{
+position: fixed;
+z-index: 5;
+width: 100%;
+padding: 25px 0;
+transition: all 0.3s ease;
 }
-.navbar.sticky{
-  padding: 10px 0;
-  background: #1b1b1b;
-  box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1);
+.hganavbar.sticky{
+padding: 10px 0;
+background: #1b1b1b;
+box-shadow: 0px 3px 5px 0px rgba(0,0,0,0.1);
 }
-.navbar .navcontent{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  align-content: center;
-  position: absolute;
-  right: 30px;
-  top: 30px;
-  transition: all 0.3s ease;
+.hganavbar .hganavcontent{
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
-.navbar .navlogo a{
-  color: #fff;
-  font-size: 30px;
-  font-weight: 600;
-  text-decoration: none;
+.hganavbar .hganavlogo a{
+color: #fff;
+font-size: 30px;
+font-weight: 600;
+text-decoration: none;
 }
-.navbar .menu-list{
-  display: inline-flex;
+.hganavbar .hganavmenu-list{
+display: inline-flex;
+margin-bottom: 0rem;
 }
-.menu-list li{
-  list-style: none;
+.hganavmenu-list li{
+list-style: none;
 }
-.menu-list li a{
-  color: #fff;
-  font-size: 18px;
-  font-weight: 500;
-  margin-left: 25px;
-  text-decoration: none;
-  transition: all 0.3s ease;
+.hganavmenu-list li a{
+color: #fff;
+font-size: 18px;
+font-weight: 500;
+margin-left: 25px;
+text-decoration: none;
+transition: all 0.3s ease;
 }
-.menu-list li a:hover{
-  color: #007bff;
+.hganavmenu-list li a:hover{
+color: #007bff;
 }
 .banner{
-  height: 100vh;
-  background: url("banner.jpg") no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+height: 100vh;
+background: url("banner.jpg") no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
 }
-.navicon{
-  color: #fff;
-  font-size: 20px;
-  cursor: pointer;
-  display: none;
-  position: absolute;
-  right: 30px;
-  top: 25px;
-  transition: all 0.3s ease;
+.about{
+padding: 40px 0;
 }
-.navicon.cancel-btn{
-  position: absolute;
-  right: 30px;
-  top: 20px;
+.about .title{
+font-size: 35px;
+font-weight: 700;
 }
-.navbar.sticky .navicon.cancel-btn{
-  top: 10px;
+.about p{
+padding-top: 20px;
+text-align: justify;
 }
-.navbar.sticky .navicon.menu-btn{
-  top: 10px;
-  transition: all 0.3s ease;
+.hganavicon{
+color: #fff;
+font-size: 20px;
+cursor: pointer;
+display: none;
 }
-.navbar.sticky .navcontent{
-  top: 20px;
-  transition: all 0.3s ease;
+.hganavicon.hganavcancel-btn{
+position: absolute;
+right: 30px;
+top: 20px;
 }
+.hganavbar.sticky .hganavicon.hganavcancel-btn{
+top: 10px;
+}
+@media (max-width: 868px) {
 body.disabledScroll{
   overflow: hidden;
 }
-@media (max-width: 868px) {
-  body.disabledScroll .navbar .navcontent{    
-    flex-direction: column;
-    position: relative;
-    overflow: hidden;
-    transition: all 0.3s ease;
-  }
-  .navicon{
-    display: block;
-    height: 50px;
-    width: 50px;
-    text-align: center;
-    line-height: 50px;
-    border-radius: 50%;
-    z-index: 9;
-  }
-  .navicon.cancel-btn{
-    display: none;
-  }
-  .navicon.cancel-btn.show{
-    display: block;
-  }
-  .navicon.hide{
-    display: none;
-  }
-  .navbar .menu-list{
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    width: 100%;
-    background: #222;
-    display: block;
-    padding: 40px 0;
-    text-align: center;
-    clip-path: circle(25px at calc(100% - 55px) calc(0% + 50px));
-    transition: all 0.3s ease;
-  }
-  .navbar.sticky .menu-list{
-    clip-path: circle(25px at calc(100% - 55px) calc(0% + 35px));
-  }
-  .navbar .menu-list.active{
-    clip-path: circle(75%);
-  }
-  .navbar .menu-list li{
-    margin-top: 45px;
-  }
-  .navbar .menu-list li a{
-    font-size: 23px;
-  }
+.hganavicon{
+  display: block;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  line-height: 50px;
+  border-radius: 50%;
+  z-index: 9;
 }
+.hganavicon.hganavcancel-btn{
+  display: none;
+}
+.hganavicon.hganavcancel-btn.show{
+  display: block;
+}
+.hganavicon.hide{
+  display: none;
+}
+.hganavbar .hganavmenu-list{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100%;
+  background: #222;
+  display: block;
+  padding: 40px 0;
+  text-align: center;
+  clip-path: circle(25px at calc(100% - 55px) calc(0% + 50px));
+  transition: all 0.3s ease;
+}
+.hganavbar.sticky .hganavmenu-list{
+  clip-path: circle(25px at calc(100% - 55px) calc(0% + 35px));
+}
+.hganavbar .hganavmenu-list.active{
+  clip-path: circle(75%);
+}
+.hganavbar .hganavmenu-list li{
+  margin-top: 45px;
+}
+.hganavbar .hganavmenu-list li a{
+  font-size: 23px;
+}
+}
+
+
 
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
-.back-to-top {
+ .back-to-top {
   position: fixed;
   visibility: hidden;
   opacity: 0;
@@ -372,38 +232,6 @@ body.disabledScroll{
 .back-to-top.active {
   visibility: visible;
   opacity: 1;
-}
-
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
-/* Mobile Navigation */
-.mobile-nav-toggle {
-  position: fixed;
-  right: 15px;
-  top: 15px;
-  z-index: 9998;
-  border: 0;
-  font-size: 24px;
-  transition: all 0.4s;
-  outline: none !important;
-  background-color: #149ddd;
-  color: #fff;
-  width: 40px;
-  height: 40px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 0;
-  border-radius: 50px;
-  cursor: pointer;
-}
-
-.mobile-nav-active {
-  overflow: hidden;
-}
-.mobile-nav-active #header {
-  left: 0;
 }
 
 /*--------------------------------------------------------------
@@ -1172,4 +1000,4 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
-}
+}*/
