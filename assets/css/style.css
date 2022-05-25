@@ -91,10 +91,8 @@ align-items: center;
 justify-content: space-between;
 }
 .hganavbar .hganavlogo a{
-color: #fff;
-font-size: 30px;
-font-weight: 600;
-text-decoration: none;
+display: flex;
+justify-content: center;
 }
 .hganavbar .hganavmenu-list{
 display: inline-flex;
@@ -238,8 +236,8 @@ body.disabledScroll{
 }
 #hero:before {
   content: "";
-
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(5, 13, 24, 0.0);
+  height: 100vh;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -323,6 +321,10 @@ section {
 }
 .section-title p {
   margin-bottom: 0;
+}
+.scrollableios{
+  overflow-x: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 }
 
 /*--------------------------------------------------------------
